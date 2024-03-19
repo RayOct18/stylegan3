@@ -3,3 +3,4 @@
 *.zip
 samples/
 training-runs/
+output/
